@@ -1,0 +1,8 @@
+body {
+    scroll-behavior: smooth;
+}
+.hero-section {
+    background: linear-gradient(rgba(71, 113, 177, 0.85), rgba(22, 61, 119, 0.9)), url('./img/header.jpg') center;
+    color: white;
+    padding: 100px 0;
+}
